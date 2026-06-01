@@ -11,15 +11,6 @@
 
 </div>
 
----
-
-## 📌 Tentang Repo Ini
-
-README ini adalah versi **lebih lengkap** dari Android Reverse Engineering Toolkit sebelumnya, disesuaikan dengan resource dari `README-Pentest-Toolkit-CLEAN-polished.md`.
-
-Fokus repo ini adalah **Android Reverse Engineering dan Mobile Security Research**, bukan repo all-in-one. Resource web, Active Directory, cloud umum, IoT, dan red-team non-mobile tidak dimasukkan ke workflow utama.
-
----
 
 ## 📑 Daftar Isi
 
